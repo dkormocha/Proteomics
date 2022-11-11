@@ -7,7 +7,7 @@ This repsoritory contains all the code used for data wrangling of mass spectrome
 
 MSc Bioinformatics| Dhiraj Kormocha
 
-Explaining incomplete tryptic digestion
+# Explaining incomplete tryptic digestion
 By Dhiraj Kormocha
 Supervisor: Professor Conrad Bessant
 2022
